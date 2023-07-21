@@ -77,25 +77,25 @@ const Feedbacks = () => {
         <div className="mt-10">
           <Slider {...settings}>
             <div className="p-3">
-              <img src={fcc} alt="freecodecamp" />
+              <img src='https://s6.imgcdn.dev/xa13C.webp' alt="freecodecamp" />
             </div>
             <div className="p-3">
-              <img src={solearnhmtl} alt="sololearnhtml" />
+              <img src='https://s6.imgcdn.dev/xa7je.webp' alt="sololearnhtml" />
             </div>
             <div className="p-3">
-              <img src={solearnjs} alt="sololearnjs" />
+              <img src='https://s6.imgcdn.dev/xaBT0.webp' alt="sololearnjs" />
             </div>
             <div className="p-3">
-              <img src={awesomeday} alt="awesomeday" />
+              <img src='https://s6.imgcdn.dev/xaa0S.webp' alt="awesomeday" />
             </div>
             <div className="p-3">
-              <img src={udemywp} alt="udemywp" />
+              <img src='https://s6.imgcdn.dev/xaGRM.webp' alt="udemywp" />
             </div>
             <div className="p-3">
-              <img src={yrs} alt="yrs" />
+              <img src='https://s6.imgcdn.dev/xaSJd.md.webp' alt="yrs" />
             </div>
             <div className="p-3">
-              <img src={eth} alt="etherium course" />
+              <img src='https://s6.imgcdn.dev/xaz4H.webp' alt="etherium course" />
             </div>
           </Slider>
         </div>

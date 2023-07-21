@@ -9,31 +9,20 @@ import close from "./close.svg";
 import link from './link.png'
 
 import css from "./tech/css.webp";
-import docker from "./tech/docker.png";
-import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.webp";
 import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.webp";
 import nodejs from "./tech/nodejs.webp";
 import reactjs from "./tech/reactjs.webp";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.webp";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import bootstrap from "./tech/bootstrap.webp"
 import githubsign from "./tech/githubsign.webp";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import gallery from "./company/gallery.png";
 
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
 import wilmar from './wilmar.webp';
 import oldportfolio from './oldportfolio.webp';
 import aps from './aps.webp';
@@ -62,26 +51,16 @@ export {
   menu,
   close,
   css,
-  docker,
-  figma,
   git,
   html,
   javascript,
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
   gallery,
-  carrent,
-  jobit,
-  tripguide,
   githubsign,
   wilmar,
   link,

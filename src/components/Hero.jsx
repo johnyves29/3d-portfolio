@@ -21,7 +21,7 @@ const Hero = () => {
              <span className="wave">
               <img
                 className="wave-hand"
-                alt=""
+                alt="wave hand"
                 draggable="false"
                 src="https://www.pngkey.com/png/full/148-1485816_wave-emoji-png.png"
               />
