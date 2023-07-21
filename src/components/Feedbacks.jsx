@@ -11,13 +11,13 @@ import { fadeIn, textVariant } from "../utils/motion";
 import { testimonials } from "../constants";
 
 import {
-  fcc,
   solearnhmtl,
   solearnjs,
   awesomeday,
   udemywp,
   yrs,
   eth,
+  fcc
 } from "../assets";
 
 const FeedbackCard = ({

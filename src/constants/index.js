@@ -18,9 +18,9 @@ import {
   // figma,
   // docker,
   gallery,
-  carrent,
-  jobit,
-  tripguide,
+  // carrent,
+  // jobit,
+  // tripguide,
   threejs,
   githubsign,
   wilmar,
@@ -214,7 +214,7 @@ const projects = [
     ],
     image: oldportfolio,
     source_code_link: "https://github.com/",
-    site_link: 'https://johnyvesmarin.netlify.app/'
+    site_link: 'https://johnyvesmarin1992.netlify.app/'
   },
   {
     name: "APS",

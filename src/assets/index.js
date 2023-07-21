@@ -39,11 +39,11 @@ import oldportfolio from './oldportfolio.png';
 import aps from './aps.png';
 import erp from './erp.png';
 import mnk from './mnk.png';
-import etc23 from './etc23.jpg';
-import onlineclassroom from './onlineclassroom.jpg';
-import phdaily from './phdaily.jpg';
+import etc23 from './etc23.png';
+import onlineclassroom from './onlineclassroom.png';
+import phdaily from './phdaily.png';
 
-import fcc from './certificates/fcc.jpg';
+import fcc from './certificates/fcc.png';
 import solearnhmtl from './certificates/sololearnhtml.jpg';
 import solearnjs from './certificates/sololearnjs.jpg';
 import awesomeday from './certificates/awesomeday.jpg';
