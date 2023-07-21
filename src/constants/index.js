@@ -15,19 +15,8 @@ import {
   nodejs,
   mongodb,
   git,
-  // figma,
-  // docker,
-  gallery,
   threejs,
   githubsign,
-  wilmar,
-  oldportfolio,
-  aps,
-  erp,
-  mnk,
-  etc23,
-  onlineclassroom,
-  phdaily
 } from "../assets";
 
 export const navLinks = [

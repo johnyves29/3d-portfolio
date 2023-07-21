@@ -23,23 +23,6 @@ import githubsign from "./tech/githubsign.webp";
 
 import gallery from "./company/gallery.png";
 
-import wilmar from './wilmar.webp';
-import oldportfolio from './oldportfolio.webp';
-import aps from './aps.webp';
-import erp from './erp.webp';
-import mnk from './mnk.webp';
-import etc23 from './etc23.webp';
-import onlineclassroom from './onlineclassroom.webp';
-import phdaily from './phdaily.webp';
-
-import fcc from './certificates/fcc.webp';
-import solearnhmtl from './certificates/sololearnhtml.webp';
-import solearnjs from './certificates/sololearnjs.webp';
-import awesomeday from './certificates/awesomeday.webp';
-import udemywp from './certificates/udemywp.webp';
-import yrs from './certificates/yrs.webp';
-import eth from './certificates/eth.webp';
-
 export {
   logo,
   backend,
@@ -62,20 +45,5 @@ export {
   threejs,
   gallery,
   githubsign,
-  wilmar,
-  link,
-  oldportfolio,
-  aps,
-  erp,
-  mnk,
-  etc23,
-  onlineclassroom,
-  phdaily,
-  fcc,
-  solearnhmtl,
-  solearnjs,
-  awesomeday,
-  udemywp,
-  yrs,
-  eth
+  link
 };
