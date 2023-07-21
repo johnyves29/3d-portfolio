@@ -17,6 +17,7 @@ import {
   git,
   threejs,
   githubsign,
+  gallery
 } from "../assets";
 
 export const navLinks = [
@@ -181,7 +182,7 @@ const projects = [
       },
     ],
     image: "https://s6.imgcdn.dev/xafTg.webp",
-    source_code_link: "https://github.com/",
+    source_code_link: "",
     site_link: 'https://wilmarllc.com/',
   },
   {
@@ -199,7 +200,7 @@ const projects = [
       },
     ],
     image: "https://s6.imgcdn.dev/xaZ0o.md.webp",
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/johnyves29/react-portfolio-v3",
     site_link: 'https://johnyvesmarin1992.netlify.app/'
   },
   {
@@ -221,8 +222,8 @@ const projects = [
       },
     ],
     image: "https://s6.imgcdn.dev/xaxxh.md.webp",
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: 'https://aps-site-sample.netlify.app',
   },
   {
     name: "Workboard",
@@ -239,8 +240,8 @@ const projects = [
       },
     ],
     image: 'https://s6.imgcdn.dev/xavnl.md.webp',
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: 'https://workboard.ph/',
   },
   {
     name: "Mnk.soft",
@@ -257,8 +258,8 @@ const projects = [
       },
     ],
     image: 'https://s6.imgcdn.dev/xaOCK.md.webp',
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: 'https://mnksoft.com.ph/',
   },
   {
     name: "ETC23",
@@ -271,8 +272,8 @@ const projects = [
       },
     ],
     image: 'https://s6.imgcdn.dev/xa2FV.md.webp',
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: '',
   },
   {
     name: "CE Online Classroom",
@@ -289,8 +290,8 @@ const projects = [
       },
     ],
     image: 'https://s6.imgcdn.dev/xa93O.webp',
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: '',
   },
   {
     name: "Philippine Daily",
@@ -307,8 +308,8 @@ const projects = [
       },
     ],
     image: 'https://s6.imgcdn.dev/xaVwn.webp',
-    source_code_link: "https://github.com/",
-    site_link: 'https://wilmarllc.com/',
+    source_code_link: "",
+    site_link: '',
   },
 ];
 

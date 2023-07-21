@@ -10,16 +10,6 @@ import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
 import { testimonials } from "../constants";
 
-import {
-  solearnhmtl,
-  solearnjs,
-  awesomeday,
-  udemywp,
-  yrs,
-  eth,
-  fcc
-} from "../assets";
-
 const FeedbackCard = ({
   index,
   testimonial,
